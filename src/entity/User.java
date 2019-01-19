@@ -1,7 +1,5 @@
 package entity;
 
-import java.util.List;
-
 /**
  * Created by sukenda on 28/07/18.
  * Project Belajar
@@ -11,7 +9,6 @@ public class User {
     private int id;
     private String username;
     private String password;
-    private List<UserProfile> userProfiles;
 
     public User() {
     }

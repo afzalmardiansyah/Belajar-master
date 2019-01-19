@@ -1,4 +1,4 @@
-package service;
+package help;
 
 import entity.Profile;
 import entity.User;
@@ -13,7 +13,7 @@ import java.util.Map;
  * Project Belajar
  */
 
-public class BasicCRUD {
+public class BasicCrudHelp {
 
     private List<User> datas = new ArrayList<>();
     private List<Profile> dataList = new ArrayList<>();
